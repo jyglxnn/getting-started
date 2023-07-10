@@ -1,10 +1,12 @@
-### progress
-- basic HTML CSS
+### Progress
+[x] basic HMTL CSS
+[] basic javescript
+[x] python
+[] vi/vim key binddings
+[] docker container (intalled)
+[] django (installed)
 
-### to do
-- basic js
-
-### projects
-- create profile page
-- recreate webpage
-- make own webpage
+### Projects
+[] create profile page
+[] recreate webpage
+[] create own
